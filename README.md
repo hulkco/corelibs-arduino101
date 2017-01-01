@@ -23,7 +23,9 @@ If you wish to use the latest **untested** changes, follow these instructions.
 
 Note: your [tools](https://github.com/01org/intel-arduino-tools), found in
 `Arduino15/packages/Intel/tools/arduino101load/<version>/`, may also need to
-be updated to the latest snapshot.
+be updated to the latest snapshot, Select the branch that corresponds to your 
+Operating System and Processor Architecture. You may also need to upgrade the
+firmware of your Arduino 101..
 
 Future upgrades may fail since the internal contents were modified by hand. In
 order to recover, shut down the IDE, delete the entire `Arduino15` directory,
